@@ -1,0 +1,28 @@
+.App {
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+.container {
+	height: content;
+	width: 400px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f64c72;
+	padding: 0 15px;
+	/* box-shadow: -1px 0px 15px -1px #fdfcfc; */
+	box-shadow: -1px 0px 24px -1px #99738e;
+}
+.container > button {
+	border: none;
+	font-size: 20px;
+	color: white;
+	background-color: #242582;
+	font-weight: bold;
+	padding: 5px 158px;
+	align-items: center;
+	margin-bottom: 15px;
+	cursor: pointer;
+}
